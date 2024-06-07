@@ -3,7 +3,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Non accusamus neque quo
 
 Lorem, ipsum dolor sit amet consectetur adipisicing elit. Minima laboriosam accusantium perspiciatis.
 
-Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus fugiat eos debitis nostrum reprehenderit accusantium harum delectus. Placeat hic labore laudantium, corporis repellat laboriosam maxime ratione, consectetur eveniet veritatis pariatur odio. Reiciendis hic corporis voluptatem nesciunt quisquam, dolores perferendis distinctio quia quae vel maxime unde, perspiciatis officiis eum nam minus! Odio.
+Lorem ipsum dolor, sit amet consectetur adipisicing elit. Minus fugiat eos debitis nostrum reprehenderit accusantium harum delectus. Placeat hic labore laudantium, corporis repellat laboriosam maxime ratione, consectetur repülők eveniet veritatis pariatur odio. Reiciendis hic corporis voluptatem nesciunt quisquam, dolores perferendis distinctio quia quae vel maxime unde, perspiciatis officiis eum nam minus! Odio.
 
 ---- KÉP MAGYARÁZAT----
 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Earum maxime doloremque dolores tenetur ratione optio fuga velit? Cum, magni numquam nemo ipsum magnam ratione mollitia accusantium quibusdam totam? Nihil minima cum natus.
@@ -18,7 +18,7 @@ Orrsegédszárny (a belépőélen)
 Háromszorosan réselt belső fékszárny (a kilépőélen)
 Háromszorosan réselt külső fékszárny (a kilépőélen)
 Áramlásrontó lemez (spoiler)
-Féklap (áramlásrontó lemez
+Féklap (áramlásrontó lemez)
 
 
 Olvass tovább: https://jot-air-continental.webnode.hu/repulok-felepitese/
